@@ -1,0 +1,2 @@
+beautiful xinh dep-adj
+run chay -v
